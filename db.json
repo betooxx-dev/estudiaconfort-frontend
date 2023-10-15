@@ -1,0 +1,67 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "correo": "emi@hola.com",
+      "nombre": "Emiliano",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "correo": "emi@hola.com",
+      "nombre": "Hannia",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "correo": "emi@hola.com",
+      "nombre": "Edson",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "correo": "emi@hola.com",
+      "nombre": "PAPA",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "correo": "emi@hola.com",
+      "nombre": "MAMA",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "correo": "emi@hola.com",
+      "nombre": "ALguien mas",
+      "password": "typicode",
+      "confirmado": true,
+      "role": "user"
+    }
+  ],
+  "edificios": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "datos_personales": {
+    "id": 1,
+    "id_usuario": 1,
+    "telefono": "9610000000",
+    "nombre_tutor": "don juan",
+    "tel_tutor": "9820000000",
+    "institucion": "Universidad Politecnica de Chiapas"
+  }
+}
